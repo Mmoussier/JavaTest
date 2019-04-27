@@ -8,6 +8,7 @@ public class DecimalFormatTest
 {
     public static void main( String[] args )
     {
+        // modif branch-3
         Double test1 = 123.456;
 
         // Provoque une erreur NumberFormatException avec les paramètres régionaux français
